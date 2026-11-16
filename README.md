@@ -6,8 +6,8 @@ and the self-hosted Docker infra they run on. .NET microservices background.
 
 - 🔭 Building **SureHub** — a personal finance + automation hub run entirely
   from a Telegram bot, with Claude doing the structuring
-- 🧠 Recent freelance: a secretary-assistant chatbot for two public schools
-  (Qdrant + Ollama)
+- 🧠 Recent freelance: [SecretarIA](https://github.com/SureKT/secretaria-rag), a self-hosted
+  RAG assistant for two public schools (FastAPI streaming · Qdrant · Ollama)
 - 🛠️ Python · FastAPI · SQLModel · PostgreSQL · Docker · Claude API · Ollama
 - 💼 .NET 7 · gRPC · Kafka · Clean Architecture
 - 🌍 Spanish native · English C1 · open to remote
